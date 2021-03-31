@@ -5,7 +5,7 @@ This is a full complete project of online complaint manageent developed in java 
 There are three roles :-
 1.) User 
 2.) Admin
-3.) Manageer
+3.) Manager
 
 # Description
 
